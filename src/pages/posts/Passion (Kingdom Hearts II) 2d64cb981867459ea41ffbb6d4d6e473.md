@@ -8,7 +8,7 @@ theme: 'light'
 featured: true
 
 meta:
- - name: CEW
+ - name: CREW
    content: CREW
  - name: keywords
    content: key3, key4
