@@ -1,8 +1,8 @@
 export const SITE_TITLE = `MUSIC CREW`;
 export const SITE_DESCRIPTION = 'Site Description';
-export const SITE_EMAIL = 'crew@musiccre.org'
-export const SITE_NAME = 'usiccre.org';
-export const SITE_URL = "https://usiccre.org";
+export const SITE_EMAIL = 'crew@musiccrew.org'
+export const SITE_NAME = 'musiccrew.org';
+export const SITE_URL = "https://musiccrew.org";
 export const SITE_LANG = "EN";
 
 // Author, used only when author is not specified on the page, 
