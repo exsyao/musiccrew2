@@ -1,3 +1,4 @@
+---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Passion (Kingdom Hearts II)'
 pubDate: 2023-06-03
@@ -13,6 +14,7 @@ meta:
    content: key3, key4
 
 keywords: key1, key2, key3
+---
 
 # Passion (Kingdom Hearts II)
 
